@@ -170,12 +170,10 @@ header {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    height: 750px;
-
-    
     transition: transform 0.3s ease; /* Adiciona uma transição suave ao hover */
     width: calc(33.33% - 40px); 
-    margin: 20px; 
+    margin: 20px;
+    height: 750px;
 }
 
 .staff-box img {
